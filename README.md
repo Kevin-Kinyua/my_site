@@ -1,2 +1,3 @@
-# my_site
-Lifestyle, Thoughts and Skills....My life on one Domain
+# my_portfolio_website
+Lifestyle, Thoughts and Skills....My life,career and thoughts on one Domain
+https://kevinkinyua.dev
